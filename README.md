@@ -2,7 +2,7 @@
 Code and data use in research into DSUP changing structure
 
 Methodology:
-- [Calculate pI] (Calculate isoelectric point)
+- [Calculate pI](Calculate isoelectric point)
 - Net charge vs pH
 - MD simulations
 - Disorder prediction
