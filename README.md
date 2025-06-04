@@ -14,9 +14,11 @@ Methodology:
 - Structural comparison
 
 
-Calculating PI or eletrostatic potential
+## Calculating PI or eletrostatic potential
 
-# Generating a plot for DSUP at Net Charge vs. pH
+## Generating a plot for DSUP at Net Charge vs. pH
+
+## DSUP electrostatic potential diagram
 
 
 Programs and websites used were:
