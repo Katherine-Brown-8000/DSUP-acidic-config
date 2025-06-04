@@ -19,6 +19,7 @@ Methodology:
 ## Generating a plot for DSUP at Net Charge vs. pH
 
 ## DSUP electrostatic potential diagram
+(https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/DSUP_config_figure_1.png)
 
 
 ## Programs and websites used were:
