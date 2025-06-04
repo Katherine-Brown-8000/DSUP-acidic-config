@@ -20,6 +20,6 @@ Generating a plot for DSUP at Net Charge vs. pH
 
 
 Programs and websites used were:
- - AlphaFold3
+ - [AlphaFold3](https://alphafoldserver.com/welcome)
  - [PDB2QR online server](https://server.poissonboltzmann.org/pdb2pqr)
 
