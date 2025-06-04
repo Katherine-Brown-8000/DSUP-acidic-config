@@ -21,7 +21,7 @@ Methodology:
 ![Alt](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/DSUP%20NET%20Charge%20vs.%20pH%20chart.png)
 
  - 
- - 
+ / 
 
 
 ## DSUP electrostatic potential diagram
