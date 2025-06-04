@@ -20,6 +20,10 @@ Methodology:
 
 ![Alt](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/DSUP%20NET%20Charge%20vs.%20pH%20chart.png)
 
+ - 
+ - 
+
+
 ## DSUP electrostatic potential diagram
 ![Alt](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/DSUP_config_figure_1.png)
 This figure was generated using ChimeraX from the DSUP files for pH 5.5, 7.4 and 11.5
