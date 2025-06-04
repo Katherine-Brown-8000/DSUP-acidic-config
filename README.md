@@ -20,6 +20,11 @@ Methodology:
 
 ## DSUP electrostatic potential diagram
 ![Alt](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/DSUP_config_figure_1.png)
+This figure was generated using ChimeraX from the DSUP files for pH 5.5, 7.4 and 11.5
+- A) is DSUP at pH 5.5
+- B) is DSUP at pH 7.4
+- C) is DSUP at pH 11.5
+- D) is DSUP at all three difference pHs overlapped
 
 
 ## Programs and websites used were:
