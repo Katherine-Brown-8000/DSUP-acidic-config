@@ -26,6 +26,18 @@ This figure was generated using ChimeraX from the DSUP files for pH 5.5, 7.4 and
 - C) is DSUP at pH 11.5
 - D) is DSUP at all three difference pHs overlapped
 
+  Intructions:
+
+  - 1 Use AlphaFold3 to generate a fold prediction for the DSUP protein sequence. This produces a CIF structure file (fold_analysis_dsup_model_1.cif).
+
+ - 2 Open the CIF file in ChimeraX and export it as a PDB file named dsup_model_0.pdb.
+
+ - 3 Upload the PDB file to the PDB2PQR Server to generate .pqr and .in files at pH 5.5, 7.4, and 11.5.
+
+ - 4 Run the .pqr and .in files through APBS to compute electrostatic potential maps (.dx files).
+
+ - 5 Load both the .pqr and .dx files into ChimeraX to visualize and export electrostatic surfaces for each pH condition.
+
 
 ## Programs and websites used were:
  - [AlphaFold3](https://alphafoldserver.com/welcome)
