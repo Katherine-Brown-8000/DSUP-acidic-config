@@ -34,14 +34,11 @@ This figure was generated using ChimeraX from the DSUP files for pH 5.5, 7.4 and
   ### Intructions for Generating the DSUP diagram depicted above
 
  - 1 Use AlphaFold3 to generate a fold prediction for the DSUP protein sequence. This produces a CIF structure file (fold_analysis_dsup_model_1.cif).
-
  - 2 Open the CIF file in ChimeraX and export it as a PDB format file named (dsup_model_0.pdb).
-
  - 3 Upload the PDB file(dsup_model_0.pdb) to the PDB2PQR Server to generate .pqr and .in files at pH 5.5, 7.4, and 11.5.
-
  - 4 Run the .pqr and .in files through APBS to compute electrostatic potential maps (.dx files).
-
  - 5 Load both the .pqr and .dx files into ChimeraX to visualize and export electrostatic surfaces for each pH condition.
+ - 6 All figure generated in ChimeraX were then open in GIMP for side by side comparisons and labeling.
 
 
 ## Programs and websites used were:
@@ -49,3 +46,4 @@ This figure was generated using ChimeraX from the DSUP files for pH 5.5, 7.4 and
  - [ChimeraX](https://www.cgl.ucsf.edu/chimerax/)
  - [PDB2QR online server](https://server.poissonboltzmann.org/pdb2pqr)
  - [APBS online server](https://server.poissonboltzmann.org/apbs)
+ - [GIMP](https://www.gimp.org/downloads/)
