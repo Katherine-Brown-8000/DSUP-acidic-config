@@ -21,7 +21,7 @@ Methodology:
 ## DSUP electrostatic potential diagram
 
 
-Programs and websites used were:
+## Programs and websites used were:
  - [AlphaFold3](https://alphafoldserver.com/welcome)
  - [ChimeraX](https://www.cgl.ucsf.edu/chimerax/)
  - [PDB2QR online server](https://server.poissonboltzmann.org/pdb2pqr)
