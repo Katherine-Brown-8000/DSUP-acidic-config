@@ -17,3 +17,9 @@ Methodology:
 Calculating PI or eletrostatic potential
 
 Generating a plot for DSUP at Net Charge vs. pH
+
+
+Programs and websites used were:
+AlphaFold3
+[PDB2QR online server](https://server.poissonboltzmann.org/pdb2pqr)
+
