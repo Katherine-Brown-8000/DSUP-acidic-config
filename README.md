@@ -12,3 +12,8 @@ Methodology:
 - Electrostatics
 - Aggregation
 - Structural comparison
+
+
+Calculating PI or eletrostatic potential
+
+Generating a plot for DSUP at Net Charge vs. pH
