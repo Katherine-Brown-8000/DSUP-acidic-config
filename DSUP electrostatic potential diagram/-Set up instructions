@@ -1,1 +1,4 @@
-The 
+Instructions for how the models were generated for DSUP.
+
+1) Go to Alphafold 3 with the protine sequence for DSUP, this will give you a fold analysis folder for DSUP
+2) From the fold analysis folder, the fold_analysis_dsup_model_1.ciff was run in ChimeraX to generate dsup_model_0.pdb
