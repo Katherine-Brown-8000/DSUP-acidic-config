@@ -1,4 +1,6 @@
 Instructions for how the models were generated for DSUP.
 
-1) Go to Alphafold 3 with the protine sequence for DSUP, this will give you a fold analysis folder for DSUP
+1) Go to Alphafold 3 with the protein sequence for DSUP, this will give you a fold analysis folder for DSUP
 2) From the fold analysis folder, the fold_analysis_dsup_model_1.ciff was run in ChimeraX to generate dsup_model_0.pdb
+3) On the poissonboltzmann.org dsup_model_0.pdb was used to generate various structures using PDB2PQR for DSUP at different of 5.5, 7.4 and 11.5 in the for of .pqr and .in files
+4) the pqr. and .in file where then run in APBS to generate the elctrostatic potential map in dx. format 
