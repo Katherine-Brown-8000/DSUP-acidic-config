@@ -16,6 +16,9 @@ Methodology:
 
 ## Calculating PI or eletrostatic potential
 
+The protein sequence used for DSUP comes from the NIH
+[damage suppressor [Ramazzottius varieornatus]](https://www.ncbi.nlm.nih.gov/protein/BAV59442.1)
+
 ## Generating a plot for DSUP at Net Charge vs. pH
 
 ![Alt](https://github.com/Katherine-Brown-8000/DSUP-acidic-config/blob/main/DSUP%20NET%20Charge%20vs.%20pH%20chart.png)
